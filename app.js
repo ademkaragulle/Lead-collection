@@ -1,10 +1,3 @@
-/*
-    Insider Case Study
-    Author by: Adem Karagülle
-    07.03.2023
-*/
-
-
 document.head.insertAdjacentHTML('beforebegin', `<style>
 @media (max-width: 768px) {
     .container-popup {
